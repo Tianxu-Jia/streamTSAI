@@ -28,5 +28,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'user': 'Tianxu-Jia',
                 'version': '0.0.1'},
   'syms': { 'streamTSAI..ipynb_checkpoints.core-checkpoint': { 'streamTSAI..ipynb_checkpoints.core-checkpoint.foo': 'https://Tianxu-Jia.github.io/streamTSAI/.ipynb_checkpoints.core-checkpoint.html#foo'},
-            'streamTSAI.core': { 'streamTSAI.core.foo': 'https://Tianxu-Jia.github.io/streamTSAI/core.html#foo',
+            'streamTSAI.core': { 'streamTSAI.core.build_future_maxmin_idx_ds': 'https://Tianxu-Jia.github.io/streamTSAI/core.html#build_future_maxmin_idx_ds',
                                  'streamTSAI.core.hello': 'https://Tianxu-Jia.github.io/streamTSAI/core.html#hello'}}}
